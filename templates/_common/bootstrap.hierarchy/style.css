@@ -251,3 +251,8 @@ pre {
 .keyword {
     color: #616161;
 }
+
+@font-face{
+    font-family:'Glyphicons Halflings';
+    src:url(../node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot);
+}
